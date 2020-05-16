@@ -1,0 +1,9 @@
+{
+    "rawMapFile": "Levels/Level_3/Level_3_Map",
+    "initialDirection": "upRight",
+    "goals": {
+        "oneStar": 60,
+        "twoStars": 40,
+        "threeStars": 30
+    }
+}
