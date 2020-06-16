@@ -1,4 +1,4 @@
-# WWDC20 Swift Student Challenge Submission
+## WWDC20 Swift Student Challenge Submission [accepted]
 This is my submission to the WWDC2020 Swift Student Challenge
 
 ## How To Run
